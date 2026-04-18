@@ -1,0 +1,16 @@
+Activity_ID,Sales_ID,Store_Name,Lat,Long,Visit_Type,Items_Sold,Revenue_IDR,Sample_Request,Store_Image_URL,Timestamp
+ACT-544D8877,Sales_A,Toko_Sales_A_1,-7.213718108471732,112.66711394268906,Complaint Follow-up,2,278512,True,https://upload.wikimedia.org/wikipedia/commons/e/ee/Shop.svg,2026-04-19 10:38:00
+ACT-8FA47385,Sales_A,Toko_Sales_A_2,-7.287493820676489,112.6475543603895,Routine Restock,67,5720795,False,https://upload.wikimedia.org/wikipedia/commons/3/3d/Map-icon-shop.svg,2026-04-19 13:17:00
+ACT-495EC957,Sales_A,Toko_Sales_A_3,-7.32985502675618,112.79370824078305,Market Survey,15,2606625,False,https://upload.wikimedia.org/wikipedia/commons/c/c8/Store_Building_Flat_Icon_Vector.svg,2026-04-19 14:21:00
+ACT-5047CAD6,Sales_A,Toko_Sales_A_4,-7.194420157082158,112.76271511829592,New Prospecting,98,3805536,False,https://upload.wikimedia.org/wikipedia/commons/f/f6/Wikivoyage-icon-supermarket.svg,2026-04-19 16:45:00
+ACT-1C1F4C2E,Sales_A,Toko_Sales_A_5,-7.210168123408178,112.68471478640967,Urgent Delivery,69,5085093,False,https://upload.wikimedia.org/wikipedia/commons/d/dc/Font_Awesome_5_solid_store.svg,2026-04-19 17:47:00
+ACT-45A093A7,Sales_B,Toko_Sales_B_1,-7.2047988536648715,112.75693164379237,Market Survey,84,10063200,True,https://upload.wikimedia.org/wikipedia/commons/e/ee/Font_Awesome_5_solid_store-alt.svg,2026-04-19 09:27:00
+ACT-DFCB5763,Sales_B,Toko_Sales_B_2,-7.194845831152743,112.67167428824213,New Prospecting,75,10345800,False,https://upload.wikimedia.org/wikipedia/commons/e/e0/Iconoir_shop.svg,2026-04-19 11:34:00
+ACT-821EE6B4,Sales_B,Toko_Sales_B_3,-7.262821983407584,112.69671108945958,New Prospecting,36,3770676,True,https://upload.wikimedia.org/wikipedia/commons/d/da/Iconoir_shop-alt.svg,2026-04-19 14:02:00
+ACT-458AEA7C,Sales_B,Toko_Sales_B_4,-7.218655255087963,112.67339468974843,Complaint Follow-up,83,7056494,False,https://upload.wikimedia.org/wikipedia/commons/2/23/Iconoir_small-shop-alt.svg,2026-04-19 16:25:00
+ACT-AC617D35,Sales_B,Toko_Sales_B_5,-7.255324865257187,112.63954460675122,Urgent Delivery,51,8034999,True,https://upload.wikimedia.org/wikipedia/commons/5/5f/Icons8_flat_shop.svg,2026-04-19 17:33:00
+ACT-AA9AC8B8,Sales_C,Toko_Sales_C_1,-7.247013176349354,112.77497700208819,New Prospecting,82,2748066,True,https://upload.wikimedia.org/wikipedia/commons/e/ee/Linearicons_store.svg,2026-04-19 10:52:00
+ACT-BA32B7BF,Sales_C,Toko_Sales_C_2,-7.322279964624895,112.78164505501599,Market Survey,67,12506354,False,https://upload.wikimedia.org/wikipedia/commons/4/4c/Linecons_groceries-store.svg,2026-04-19 13:19:00
+ACT-B99CFC5C,Sales_C,Toko_Sales_C_3,-7.304963603042538,112.75010577685173,Complaint Follow-up,83,6177358,True,https://upload.wikimedia.org/wikipedia/commons/1/18/Emojione_1F3EC.svg,2026-04-19 14:41:00
+ACT-B7D891BB,Sales_C,Toko_Sales_C_4,-7.322728705345905,112.78144522080004,Urgent Delivery,69,13524276,False,https://upload.wikimedia.org/wikipedia/commons/0/02/Emojione_BW_1F3EC.svg,2026-04-19 17:18:00
+ACT-AD32D6E8,Sales_C,Toko_Sales_C_5,-7.314846361437754,112.65249093584721,Routine Restock,42,5235300,True,https://upload.wikimedia.org/wikipedia/commons/5/55/Ic_store_48px.svg,2026-04-19 19:12:00
